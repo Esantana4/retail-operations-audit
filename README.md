@@ -87,4 +87,4 @@ Metrics → KPIs → OKRs framework
 Author
 
 Erik Santana
-Aspiring Data Analyst | Excel | SQL | Business Analytics
+Data Analyst | Excel | SQL | Business Analytics
