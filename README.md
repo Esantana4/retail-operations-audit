@@ -100,5 +100,5 @@ Business metrics framework (Metrics → KPIs → OKRs)
 
 Author
 
-Your Name
+Erik Santana
 Aspiring Data Analyst | Excel | SQL | Business Analytics
