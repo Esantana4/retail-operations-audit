@@ -4,7 +4,7 @@ Objective
 
 Audit retail performance to determine true profitability, evaluate discount effectiveness, and identify margin risks masked by revenue-driven reporting.
 
-Business Questions
+Business Questions:
 
 Which stores are truly profitable?
 
@@ -14,7 +14,11 @@ Which product categories subsidize the business?
 
 Where are leadership decisions eroding profitability?
 
-Dataset
+Summary:
+
+All stores are profitable, but the North store is the most efficient, generating the highest profit with the fewest orders. Margin pressure is driven not by employees but by discounted laptop sales, which combine high costs with aggressive discounting. Discounts are effective for Add-ons but harmful for Electronics, indicating that discounting is being applied without regard to product economics. Add-ons subsidize the company by funding weaker Electronics margins. Leadership’s primary failure is the lack of a margin-aware pricing and discount strategy.
+
+Dataset:
 
 Simulated retail sales data
 
@@ -22,7 +26,7 @@ Simulated retail sales data
 
 Includes revenue, cost, discount, profit, margin, employee, and product category data
 
-Analytical Workflow
+Analytical Workflow:
 
 The Excel workbook reflects a complete end-to-end analysis:
 
@@ -34,7 +38,7 @@ Pivots – KPI aggregation by store, category, discount status, and employee
 
 Dashboard – executive-level KPI visualization
 
-Key KPIs
+Key KPIs:
 
 Total Revenue
 
@@ -46,7 +50,7 @@ Average Profit Margin
 
 Discounted vs Full-Price Margin
 
-Supporting Analysis
+Supporting Analysis:
 
 Profit by Store
 
@@ -54,7 +58,7 @@ Profit by Employee
 
 Category-level profit contribution (Add-ons vs Electronics)
 
-Key Findings
+Key Findings:
 
 All stores are profitable, but the North store generates the highest profit with the fewest orders, indicating superior efficiency.
 
@@ -66,7 +70,7 @@ Revenue alone overstates performance and obscures margin risk.
 
 Discounting is applied uniformly without regard to product-level cost structure.
 
-Recommendations
+Recommendations:
 
 Implement margin-based discount guardrails.
 
@@ -76,13 +80,13 @@ Shift sales emphasis toward high-margin Add-ons.
 
 Replace revenue-only reporting with profit-centric KPIs.
 
-Limitations
+Limitations:
 
 Small dataset limits statistical confidence.
 
 Results are directional and intended to demonstrate analytical reasoning.
 
-Tools Used
+Tools Used:
 
 Microsoft Excel
 
@@ -93,6 +97,5 @@ KPI Cards
 Metrics → KPIs → OKRs framework
 
 Author
-
 Erik Santana
 Data Analyst | Excel | SQL | Business Analytics
