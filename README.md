@@ -36,15 +36,23 @@ Dashboard – executive-level KPI visualization
 
 Key KPIs
 
+Total Revenue
+
 Total Profit
 
-Profit Margin
+Average Profit Margin
 
-Profit per Order
+% Discounted Orders
 
 Discounted vs Full-Price Margin
 
-Category Profit Contribution
+Supporting Analysis
+
+Profit by Store
+
+Profit by Employee
+
+Category-level profit contribution (Add-ons vs Electronics)
 
 Key Findings
 
